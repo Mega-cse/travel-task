@@ -21,7 +21,7 @@ const Header = () => {
                             <option value="goa">Goa</option>
                             <option value="paris">Greenland</option>
                         </select>
-                        <input type="date" class="search-input" />
+                        <input type="date" class="search-input" placeholder="DATE"/>
                         <div class="price-dropdown">
                             <select class="search-dropdown">
                                 <option value="">Price Range</option>
